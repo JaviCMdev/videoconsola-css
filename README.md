@@ -8,6 +8,8 @@
 **VERSIONES**
 
 - v0.1
+- v0.2
+- v0.3
 
 **AUTOR**
 - Javier Capilla Martin <a href="https://github.com/JaviCMdev">JaviCMDev</a>
