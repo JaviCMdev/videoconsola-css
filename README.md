@@ -7,7 +7,9 @@
 
 **VERSIONES**
 
-- v0.1
+- v0.1 Idea inicial
+- v0.2 Base
+- v0.3 Fondo
 
 **AUTOR**
 - Javier Capilla Martin <a href="https://github.com/JaviCMdev">JaviCMDev</a>
