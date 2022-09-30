@@ -28,37 +28,64 @@
         margin-top: 50px;
     }
     .dpadUp {
-        display: inline-block;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        display: flex;
         background: black;
         width: 30px;
         height: 30px;
         border-radius: 50%;
-        margin-left: 35px;
+        margin-left: 40px;
         margin-top: 50px;
     }
+    .dpadUp:active {
+        background: #414141;
+    }
     .dpadLeft {
-        display: inline-flex;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        display: flex;
         background: black;
         width: 30px;
         height: 30px;
         border-radius: 50%;
-        margin-left: 10px;
+        margin-left: 15px;
+        margin-top: -20px;
+    }
+    .dpadLeft:active {
+        background: #414141;
     }
     .dpadRight {
-        display: inline-flex;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        display: flex;
         background: black;
         width: 30px;
         height: 30px;
         border-radius: 50%;
-        margin-left: 20px;
+        margin-left: 65px;
+        margin-top: -30px;
+    }
+    .dpadRight:active {
+        background: #414141;
     }
     .dpadDown {
-        display: inline-block;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        display: flex;
         background: black;
         width: 30px;
         height: 30px;
         border-radius: 50%;
-        margin-left: 35px;
+        margin-left: 40px;
+        margin-top: -20px;
+    }
+    .dpadDown:active {
+        background: #414141;
     }
 
 
@@ -85,7 +112,10 @@
     border-radius: 0px 70px 70px 0px;
 }
     .dpadX {
-        display: inline-block;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        display: flex;
         background: black;
         width: 30px;
         height: 30px;
@@ -93,30 +123,54 @@
         margin-left: 35px;
         margin-top: 50px;
     }
+    .dpadX:active {
+        background: #414141;
+    }
     .dpadY {
-        display: inline-flex;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        display: flex;
         background: black;
         width: 30px;
         height: 30px;
         border-radius: 50%;
         margin-left: 10px;
+        margin-top: -20px;
+    }
+    .dpadY:active {
+        background: #414141;
     }
 
     .dpadA {
-        display: inline-flex;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        display: flex;
         background: black;
         width: 30px;
         height: 30px;
         border-radius: 50%;
-        margin-left: 20px;
+        margin-left: 60px;
+        margin-top: -30px;
+    }
+    .dpadA:active {
+        background: #414141;
     }
     .dpadB {
-        display: inline-block;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        display: flex;
         background: black;
         width: 30px;
         height: 30px;
         border-radius: 50%;
         margin-left: 35px;
+        margin-top: -20px;
+    }
+    .dpadB:active {
+        background: #414141;
     }
     .thumbRight {
         display: inline-block;
@@ -124,6 +178,6 @@
         width: 45px;
         height: 45px;
         border-radius: 50%;
-        margin-left: 30px;
+        margin-left: 35px;
         margin-top: 50px;
     }
