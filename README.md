@@ -7,9 +7,11 @@
 
 **VERSIONES**
 
-- v0.1 Idea inicial
-- v0.2 Base
-- v0.3 Fondo
+- v0.1 Idea inicial *Primera idea del proyecto*
+- v0.2 Base *Base de Nintendo Switch en negro*
+- v0.3 Fondo *Fondo lateral derecho y lateral izquierdo de sus respectivos colores*
+- v0.4 Botones iniciales *Añadidos botones de direccion y de accion*
+- v0.5 Respuesta botones *Añadido efecto :active al clickar botones de direccion y de accion*
 
 **AUTOR**
 - Javier Capilla Martin <a href="https://github.com/JaviCMdev">JaviCMDev</a>
